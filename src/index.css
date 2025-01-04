@@ -1,1 +1,6 @@
 /* write your css here */
+.image{
+    width: 380px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
